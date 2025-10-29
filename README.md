@@ -3,18 +3,6 @@
 This repository contains my first Power BI dashboard, created during my Data Analytics Bootcamp (June 2024).
 The project demonstrates my ability to analyze, visualize, and interpret business data using Power BI.
 
-📊 Project Overview
-
-The goal of this project was to build an interactive dashboard that provides valuable business insights such as:
-
-Total sales performance
-
-Top-performing products and regions
-
-Customer trends and profit margins
-
-Year-over-year growth comparison
-
 🧩 Tools & Technologies
 
 Power BI Desktop

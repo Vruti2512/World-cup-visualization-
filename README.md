@@ -49,8 +49,5 @@ How to design dashboards for business decision-making
 📅 Project Timeline
 
 Completed: June 2024
-Duration: 1 Week (Bootcamp Project)
-
-Completed: June 2024
 
 Duration: 1 Week (Bootcamp Project)
